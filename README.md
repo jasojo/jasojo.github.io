@@ -4,7 +4,7 @@ I am a student at RCC studying Emergency Management. GIS 8 is a prerequisite cou
 ## Disease Mapping: Covid-19 Rates and Population Density
 This a short video of the interactive swipe map initially showing Covid-19 rates then the population density at the time. A link to the map is included. 
 
-https://github.com/user-attachments/assets/f13630e7-c3df-4967-8f97-00966d3b5c51
+https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67
 
 *Interactive version, live as of September 2026: https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=1a332f1c67824cf9bf687f68df4c0d34*
 
@@ -22,7 +22,6 @@ Be honest. Every map has one.
 In this short video, I display image mapping layers from beginning to end highlighting the before and aftermath of Kilauea's eruption. A link to a short story and images is included. 
 
 https://github.com/user-attachments/assets/a77bc093-efe6-4c0f-b036-6903f3972dd1
-
 
 *Interactive version, live as of September 2026: https://storymaps.arcgis.com/stories/2aab92b1e35f425c869feba44bdfa654*
 **Question:**
