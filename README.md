@@ -12,7 +12,7 @@ tools. Someone should be able to follow this.]
 **A design choice I made and why:** [One specific decision. Classification
 method, color scheme, projection, what you labeled, what you left out.]
 **A limitation of this map:** [What this map cannot tell the reader.
-Be honest. Every map has one.]
+Be honest. Every map has one.
 
 
 ## 2018 Kilauea Volcanic Eruption: Before and After
