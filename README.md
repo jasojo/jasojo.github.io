@@ -8,14 +8,13 @@ https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67
 
 *Interactive version, live as of September 2026: https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=1a332f1c67824cf9bf687f68df4c0d34*
 
-**Question:** [What geographic question does this map answer?]
+**Question:** This map is both a referential and thematic. The referential aspect focuses on clear boundaries of cities/counties in New York to help emphasize the thematic properties of Covid-19 rates and population density. 
 **Data:** [Dataset name, who published it, what year, where you got it.]
 **Method:** [Two or three sentences on what you actually did. Name the
 tools. Someone should be able to follow this.]
 **A design choice I made and why:** [One specific decision. Classification
 method, color scheme, projection, what you labeled, what you left out.]
-**A limitation of this map:** [What this map cannot tell the reader.
-Be honest. Every map has one.
+**A limitation of this map:** This map cannot tell the reader how daily commutes or flow of traffic could explain why Covid-19 rates were higher in some lesser dense populated areas.
 
 
 ## 2018 Kilauea Volcanic Eruption: Before and After
