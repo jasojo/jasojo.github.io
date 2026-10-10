@@ -21,7 +21,7 @@ In this short video, I display image mapping layers from beginning to end highli
 https://github.com/user-attachments/assets/a77bc093-efe6-4c0f-b036-6903f3972dd1
 
 *Interactive version, live as of September 2026: https://storymaps.arcgis.com/stories/2aab92b1e35f425c869feba44bdfa654*
-**Question:**
+**Question:** This a satellite image of Kilauea’s location on the main Hawaiian island, Hawaii. It has very minimal elements with no points of interest, lines, or polygons in place to help distinguish, besides an observable green area that can be considered as vegetation, a coast, and an ocean. What geographical information is given is through satellite images over time showing Kilauea before and after its eruption. 
 **Data:**
 **Method:**
 **A design choice I made and why:**
