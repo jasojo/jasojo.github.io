@@ -6,8 +6,10 @@ This a short video of the interactive swipe map initially showing Covid-19 rates
 
 ![Watch the video](https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67)
 
-![Watch the video](images/Disease_Mapping_Swipe_App)
-
+![Watch the video]()
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/jasojo/jasojo.github.io/raw/refs/heads/main/images/Swipe_App_Disease_Mapping.mp4" />
+</video>
 
 *Interactive version, live as of September 2026: [Disease Mapping Swipe App](https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=1a332f1c67824cf9bf687f68df4c0d34)
 
