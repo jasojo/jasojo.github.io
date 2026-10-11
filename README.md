@@ -38,7 +38,7 @@ In this short video, I display image mapping layers from beginning to end highli
 **A limitation of this map:** This map is limited in many ways. The viewer does not know if the map is oriented to true north, if it is an island or peninsula, or that there is a volcano within the polygon until images of eruption are shown. Without a description to this map, a lot could be misunderstood about it.
 
 ## Data sources
-- COVID19_ZCTA, GGA_Admin, 2024, ![Open new tab](https://rccgis24.maps.arcgis.com/home/item.html?id=c3c352373ab742baa5b753614356001d#overview)
+- COVID19_ZCTA, GGA_Admin, 2024, [(https://rccgis24.maps.arcgis.com/home/item.html?id=c3c352373ab742baa5b753614356001d#overview)]
 - Kilauea 2018 Lava Flow Extents, Esri_Tutorials, 2022, https://rccgis24.maps.arcgis.com/home/item.html?id=2072343705e343c3ad4106214ce88f25#overview
 - LS 3 27 2018, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=7eec0bb14ec9419fac1a54e7cc5d9489#overview
 - LS 7 17 2018, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=e0679720ca0f44a78971a57d44df6db1#overview
