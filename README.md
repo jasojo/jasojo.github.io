@@ -4,7 +4,7 @@ I am a student at RCC studying Emergency Management. GIS 8 is a prerequisite cou
 ## Disease Mapping: Covid-19 Rates and Population Density
 This a short video of the interactive swipe map initially showing Covid-19 rates then the population density at the time.
 
-https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67
+[![Watch the video](https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67)]
 
 images/Swipe_App_Disease_Mapping.mp4
 
