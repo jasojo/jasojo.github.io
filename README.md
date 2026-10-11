@@ -4,7 +4,7 @@ I am a student at RCC studying Emergency Management. GIS 8 is a prerequisite cou
 ## Disease Mapping: Covid-19 Rates and Population Density
 This a short video of the interactive swipe map initially showing Covid-19 rates then the population density at the time.
 
-[![Watch the video](https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67)]
+![Watch the video](https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67)
 
 images/Swipe_App_Disease_Mapping.mp4
 
@@ -25,7 +25,7 @@ images/Swipe_App_Disease_Mapping.mp4
 ## 2018 Kilauea Volcanic Eruption: Before and After
 In this short video, I display image mapping layers from beginning to end highlighting the before and aftermath of Kilauea's eruption.
 
-https://github.com/user-attachments/assets/a77bc093-efe6-4c0f-b036-6903f3972dd1
+![Watch video now](https://github.com/user-attachments/assets/a77bc093-efe6-4c0f-b036-6903f3972dd1)
 
 *Interactive version, live as of September 2026: https://storymaps.arcgis.com/stories/2aab92b1e35f425c869feba44bdfa654*
 
@@ -41,7 +41,6 @@ https://github.com/user-attachments/assets/a77bc093-efe6-4c0f-b036-6903f3972dd1
 
 ## Data sources
 - COVID19_ZCTA, GGA_Admin, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=c3c352373ab742baa5b753614356001d#overview
-- [Dataset name, publisher, year, URL]
 - Kilauea 2018 Lava Flow Extents, Esri_Tutorials, 2022, https://rccgis24.maps.arcgis.com/home/item.html?id=2072343705e343c3ad4106214ce88f25#overview
 - LS 3 27 2018, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=7eec0bb14ec9419fac1a54e7cc5d9489#overview
 - LS 7 17 2018, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=e0679720ca0f44a78971a57d44df6db1#overview
