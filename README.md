@@ -28,6 +28,10 @@ In this short video, I display image mapping layers from beginning to end highli
 
 ![Watch video now](https://github.com/user-attachments/assets/a77bc093-efe6-4c0f-b036-6903f3972dd1)
 
+<video width="" height="" controls loop="" muted="" autoplay="">
+    <source src="https://github.com/jasojo/jasojo.github.io/raw/refs/heads/main/images/Kilauea_Before_and_After.mp4" />
+</video>
+
 *Interactive version, live as of September 2026: [2018 Kilauea Volcanic Eruption](https://storymaps.arcgis.com/stories/2aab92b1e35f425c869feba44bdfa654)
 
 **Question:** This a satellite image of Kilauea’s location on the main Hawaiian island, Hawaii. It has very minimal elements with no points of interest, lines, or polygons in place to help distinguish, besides an observable green area that can be considered as vegetation, a coast, and an ocean. What geographical information is given is through satellite images over time showing Kilauea before and after its eruption. 
