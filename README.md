@@ -9,7 +9,7 @@ This a short video of the interactive swipe map initially showing Covid-19 rates
 images/Swipe_App_Disease_Mapping.mp4
 
 
-*Interactive version, live as of September 2026: (https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=1a332f1c67824cf9bf687f68df4c0d34) 
+*Interactive version, live as of September 2026: [(https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=1a332f1c67824cf9bf687f68df4c0d34*)]
 
 **Question:** This small scale map of the five New York boroughs is both a referential and thematic. The referential aspect focuses on clear boundaries of the cities in the five boroughs to help emphasize the thematic properties of Covid-19 rates and population density. 
 
@@ -27,7 +27,7 @@ In this short video, I display image mapping layers from beginning to end highli
 
 ![Watch video now](https://github.com/user-attachments/assets/a77bc093-efe6-4c0f-b036-6903f3972dd1)
 
-*Interactive version, live as of September 2026: https://storymaps.arcgis.com/stories/2aab92b1e35f425c869feba44bdfa654*
+*Interactive version, live as of September 2026: [(https://storymaps.arcgis.com/stories/2aab92b1e35f425c869feba44bdfa654*)]
 
 **Question:** This a satellite image of Kilauea’s location on the main Hawaiian island, Hawaii. It has very minimal elements with no points of interest, lines, or polygons in place to help distinguish, besides an observable green area that can be considered as vegetation, a coast, and an ocean. What geographical information is given is through satellite images over time showing Kilauea before and after its eruption. 
 
