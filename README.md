@@ -6,8 +6,7 @@ This a short video of the interactive swipe map initially showing Covid-19 rates
 
 ![Watch the video](https://github.com/user-attachments/assets/f4501be2-1986-4e2d-b27c-ccda4b11db67)
 
-![Watch the video]()
-<video width="320" height="240" controls loop="" muted="" autoplay="">
+<video width="" height="" controls loop="" muted="" autoplay="">
     <source src="https://github.com/jasojo/jasojo.github.io/raw/refs/heads/main/images/Swipe_App_Disease_Mapping.mp4" />
 </video>
 
