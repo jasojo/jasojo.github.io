@@ -39,11 +39,11 @@ In this short video, I display image mapping layers from beginning to end highli
 
 ## Data sources
 - COVID19_ZCTA, GGA_Admin, 2024, [https://rccgis24.maps.arcgis.com/home/item.html?id=c3c352373ab742baa5b753614356001d#overview](https://rccgis24.maps.arcgis.com/home/item.html?id=c3c352373ab742baa5b753614356001d#overview)
-- Kilauea 2018 Lava Flow Extents, Esri_Tutorials, 2022, https://rccgis24.maps.arcgis.com/home/item.html?id=2072343705e343c3ad4106214ce88f25#overview
-- LS 3 27 2018, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=7eec0bb14ec9419fac1a54e7cc5d9489#overview
-- LS 7 17 2018, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=e0679720ca0f44a78971a57d44df6db1#overview
-- LS 8 2 2018, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=c250e0833c5541a5842fd31ba8d4ca47#overview
-- LS 2 26 2019, spatial-admin_ucsb, 2024, https://rccgis24.maps.arcgis.com/home/item.html?id=2f5a1ade710441e6a450d8004c381390#overview
+- Kilauea 2018 Lava Flow Extents, Esri_Tutorials, 2022, [https://rccgis24.maps.arcgis.com/home/item.html?id=2072343705e343c3ad4106214ce88f25#overview](https://rccgis24.maps.arcgis.com/home/item.html?id=2072343705e343c3ad4106214ce88f25#overview)
+- LS 3 27 2018, spatial-admin_ucsb, 2024, [https://rccgis24.maps.arcgis.com/home/item.html?id=7eec0bb14ec9419fac1a54e7cc5d9489#overview](https://rccgis24.maps.arcgis.com/home/item.html?id=7eec0bb14ec9419fac1a54e7cc5d9489#overview)
+- LS 7 17 2018, spatial-admin_ucsb, 2024, [https://rccgis24.maps.arcgis.com/home/item.html?id=e0679720ca0f44a78971a57d44df6db1#overview](https://rccgis24.maps.arcgis.com/home/item.html?id=e0679720ca0f44a78971a57d44df6db1#overview)
+- LS 8 2 2018, spatial-admin_ucsb, 2024, [https://rccgis24.maps.arcgis.com/home/item.html?id=c250e0833c5541a5842fd31ba8d4ca47#overview](https://rccgis24.maps.arcgis.com/home/item.html?id=c250e0833c5541a5842fd31ba8d4ca47#overview)
+- LS 2 26 2019, spatial-admin_ucsb, 2024, [https://rccgis24.maps.arcgis.com/home/item.html?id=2f5a1ade710441e6a450d8004c381390#overview](https://rccgis24.maps.arcgis.com/home/item.html?id=2f5a1ade710441e6a450d8004c381390#overview)
 
 ## Where this is going
 I plan to incorporate additional projects created in my geography course that are more interactive. A concept I have learned in my geography class is that maps are a source of information and I’d like to show the projects where the information can be seen from more than just one point of view. My goal is to have more projects that show growth of my interest in creating maps that are interactive and display as much information as possible.
