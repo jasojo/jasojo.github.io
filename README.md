@@ -9,7 +9,7 @@ This a short video of the interactive swipe map initially showing Covid-19 rates
 images/Swipe_App_Disease_Mapping.mp4
 
 
-*Interactive version, live as of September 2026: https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=1a332f1c67824cf9bf687f68df4c0d34*
+*Interactive version, live as of September 2026: (https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=1a332f1c67824cf9bf687f68df4c0d34) 
 
 **Question:** This small scale map of the five New York boroughs is both a referential and thematic. The referential aspect focuses on clear boundaries of the cities in the five boroughs to help emphasize the thematic properties of Covid-19 rates and population density. 
 
